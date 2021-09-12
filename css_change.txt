@@ -1,0 +1,5 @@
+#lockDialogGroup {
+  background: url(back.jpg);
+  background-size: 1920px 1080px;
+  background-repeat: no-repeat;
+}
